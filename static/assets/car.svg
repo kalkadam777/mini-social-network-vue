@@ -1,0 +1,17 @@
+<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Car" filter="url(#filter0_d_4470_80)">
+<path id="Icon" d="M9.16675 33.2292V27.8913C9.16675 25.2982 11.2188 23.1961 13.7501 23.1961M9.16675 33.2292C9.16675 35.8222 11.2188 37.9243 13.7501 37.9243H41.2501C43.7814 37.9243 45.8334 35.8222 45.8334 33.2292M9.16675 33.2292V40.4116C9.16675 42.1403 10.5348 43.5417 12.2223 43.5417H15.2779C16.9654 43.5417 18.3334 42.1403 18.3334 40.4116V37.9243M45.8334 33.2292V27.8913C45.8334 25.2982 43.7814 23.1961 41.2501 23.1961H13.7501M45.8334 33.2292V40.4116C45.8334 42.1403 44.4654 43.5417 42.7779 43.5417H39.7223C38.0348 43.5417 36.6667 42.1403 36.6667 40.4116V37.9243M13.7501 23.1961L16.2008 13.7819C16.5575 12.4117 17.7688 11.4583 19.1532 11.4583H35.9922C37.3074 11.4583 38.4751 12.3205 38.891 13.5986L42.014 23.1961M14.514 30.2388H19.8612M35.139 30.2388H40.4862" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_d_4470_80" x="-4" y="0" width="63" height="63" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4470_80"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4470_80" result="shape"/>
+</filter>
+</defs>
+</svg>

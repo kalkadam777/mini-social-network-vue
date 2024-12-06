@@ -1,0 +1,16 @@
+<svg width="54" height="52" viewBox="0 0 54 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Grid 4">
+<g id="tone">
+<path d="M7.875 7.58334H23.625V22.75H7.875V7.58334Z" fill="black" fill-opacity="0.15"/>
+<path d="M7.875 29.25H23.625V44.4167H7.875V29.25Z" fill="black" fill-opacity="0.15"/>
+<path d="M30.375 7.58334H46.125V22.75H30.375V7.58334Z" fill="black" fill-opacity="0.15"/>
+<path d="M30.375 29.25H46.125V44.4167H30.375V29.25Z" fill="black" fill-opacity="0.15"/>
+</g>
+<g id="shape">
+<path d="M7.875 7.58334H23.625V22.75H7.875V7.58334Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.875 29.25H23.625V44.4167H7.875V29.25Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.375 7.58334H46.125V22.75H30.375V7.58334Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.375 29.25H46.125V44.4167H30.375V29.25Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

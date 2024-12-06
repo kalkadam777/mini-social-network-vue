@@ -1,0 +1,6 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrow Down">
+<path id="tone" d="M11.0833 23.4621C11.0833 21.8722 12.3721 20.5833 13.962 20.5833H24.0378C25.6277 20.5833 26.9166 21.8722 26.9166 23.4621V33.5379C26.9166 35.1278 25.6277 36.4167 24.0378 36.4167H13.962C12.3721 36.4167 11.0833 35.1278 11.0833 33.5379V23.4621Z" fill="black" fill-opacity="0.15"/>
+<path id="shape" d="M19 31.6667L19 6.33333M19 31.6667L9.5 22.1667M19 31.6667L28.5 22.1667" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
