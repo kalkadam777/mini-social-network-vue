@@ -1,31 +1,3 @@
-<!-- <template>
-  <div id="app">
-
-    <AppHeader/>
-
-    <div class="register">
-      <h2 class="register-title">Profile | Registration</h2>
-      <form @submit.prevent="register" class="register-form">
-
-        <p class="input-label">Enter username</p>
-        <input v-model="username" type="text" placeholder="Username" required class="register-input"/>
-
-        <p class="input-label">Enter email</p>
-        <input v-model="email" type="email" placeholder="Email" required class="register-input"/>
-
-        <p class="input-label">Enter password</p>
-        <input v-model="password" type="password" placeholder="Password" required class="register-input"/>
-
-        <button type="submit" class="submit-button">Register</button>
-      </form>
-    </div>
-
-    <router-link to="login"><h3 class="login">Login→</h3></router-link>
-
-
-  </div>
-</template> -->
-
 <template>
   <div id="app">
     <AppHeader />
@@ -273,150 +245,29 @@ input[type="password"] {
   color: #fff;
   margin-bottom: 2em;
 }
+@media (max-width: 480px) {
+  .title {
+    font-size: 14px;
+    padding: 0px 10px;
+    width: 150px;
+    margin-bottom: 50px;
+  }
+
+  .register-form {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  input {
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+  }
+
+  #create_button {
+    font-size: 18px;
+    width: 200px;
+  }
+}
 </style>
-
-<!-- <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
-
-.login {
-  position: absolute;
-  top: 100px;
-  right: 100px;
-
-  color: white;
-
-  background: #63E3EB;
-  border-radius: 5px;
-  padding: 10px;
-
-  transition: 0.3s ease-in-out;
-}
-
-.login:hover {
-  background: #3b8c9d;
-}
-
-.register {
-  margin-top: 90px;
-  margin-left: 130px;
-
-  display: flex;
-  flex-direction: column;
-}
-
-.register-title {
-  margin-top: 40px;
-  margin-bottom: 100px;
-
-  font-family: 'Inknut Antiqua', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 44px;
-
-  color: #FFFFFF;
-
-  text-align: center;
-
-  display: flex;
-  align-content: center;
-  justify-content: center;
-
-  width: 300px;
-  height: 60px;
-
-  background: #63E3EB;
-  border-radius: 14px;
-}
-
-.register-form {
-  display: flex;
-  flex-direction: column;
-}
-
-.register-input {
-  width: 441px;
-  height: 44px;
-
-  background: #74F0F0;
-  border-radius: 16px;
-  border: none;
-
-}
-
-.register-input::placeholder {
-
-  /* user@example.com */
-  width: 195px;
-  height: 44px;
-
-  font-family: 'Inknut Antiqua', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 44px;
-
-  color: #FFFFFF;
-}
-
-.register-input {
-  margin-bottom: 60px;
-
-  padding-left: 10px;
-  font-family: 'Inknut Antiqua', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 32px;
-
-  color: #FFFFFF;
-}
-
-.submit-button {
-  width: 176px;
-  height: 50px;
-
-  background: #49F364;
-  border-radius: 12px;
-
-  font-family: 'Inknut Antiqua', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 44px;
-  /* identical to box height */
-
-  color: #FFFFFF;
-
-  border: none;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
-
-  margin-top: -100px;
-  margin-left: 840px;
-}
-
-.submit-button:hover {
-  background: #2ec146;
-}
-
-.input-label {
-  text-align: left;
-  /* Enter your email */
-
-  width: 164px;
-  height: 44px;
-
-  font-family: 'Inknut Antiqua', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 44px;
-  color: #FFFFFF;
-
-  margin: 0;
-}
-
-
-
-</style> -->
